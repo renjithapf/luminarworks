@@ -1,0 +1,157 @@
+body{
+    background-color: black;
+}
+.a1{
+    text-align: center;
+    color: blanchedalmond;
+}
+div{
+    height: 136px;
+    width: 97px;
+}
+.col-1{
+    
+
+    margin-left: 674px;
+    background-color: rgb(219, 128, 17)
+
+}
+.col-2{
+    
+    
+    margin-top: -135px;
+    margin-left: 452px;
+    background-color: rgb(211, 30, 120)
+}
+.col-3{
+    background-color: rgb(172, 145, 135);
+    margin-top: -134px;
+    margin-left: 563px;
+}
+.col-4{
+    background-color: rgb(68, 27, 182);
+    margin-top: -138px;
+    margin-left: 785px;
+}
+.col-5{
+    background-color: rgb(175, 201, 30);
+    margin-top: -134px;
+    margin-left: 896px;
+}
+    
+
+.col-6{
+    background-color: rgb(154, 165, 231);
+    margin-top: 63px;
+    margin-left: 787px;
+}
+.col-7{
+    background-color: rgb(184, 201, 90);
+    margin-top: -136px;
+    margin-left: 896px;
+}
+.col-8{
+    background-color: rgb(245, 77, 16);
+    margin-top: -136px;
+    margin-left: 676px;
+}
+.col-9{
+    background-color: rgb(203, 192, 231);
+    margin-top: -137px;
+    margin-left: 567px;
+}
+.col-10{
+    background-color: rgb(222, 240, 120);
+    margin-top: -134px;
+    margin-left: 455px;
+}
+.col-11{
+    background-color: rgb(4, 33, 202);
+    margin-top: -180px;
+    margin-left: -194px;
+}
+.col-12{
+    background-color: rgba(23, 230, 212, 0.295);
+    margin-top: -803px;
+    margin-left: 1008px;
+}
+.col-13{
+    background-color: rgba(13, 238, 62, 0.295);
+    margin-top: -759px;
+    margin-left: 452px;
+}
+
+
+
+
+.col-14{
+    background-color: rgb(75, 247, 7);
+    margin-top: 45px;
+    margin-left: 678px;
+}
+
+.col-15{
+    background-color: rgb(231, 113, 2);
+    margin-top: -136px;
+    margin-left: 1007px;
+}
+    
+
+.col-16{
+    background-color: rgb(21, 145, 87);
+    margin-top: -828px;
+    margin-left: 676px;
+}
+.col-17{
+    background-color: rgb(247, 35, 35);
+    margin-top: -777px;
+    margin-left: 1005px;
+}
+.col-18{
+    background-color: rgb(209, 77, 209);
+    margin-top: -145px;
+    margin-left: 341px;
+}
+.col-19{
+    background-color: rgb(203, 192, 231);
+    margin-top: -714px;
+    margin-left:565px;
+}
+.col-20{
+    background-color: rgb(222, 240, 120);
+    margin-top: -136px;
+    margin-left: 340px;
+}
+.col-21{
+    background-color: rgb(4, 33, 202);
+    margin-top: -134px;
+    margin-left: 564px;
+}
+
+
+.col-22{
+    background-color: rgb(184, 243, 20);
+    margin-top: -132px;
+    margin-left: 675px;
+}
+
+.col-23{
+    background-color: rgb(88, 225, 235);
+    margin-top: -189px;
+    margin-left: -194px;
+}
+.col-24{
+    background-color: rgb(231, 108, 25);
+    margin-top: -189px;
+    margin-left: -194px;
+}
+.col-25{
+    background-color: rgb(23, 240, 149);
+    margin-top: -189px;
+    margin-left: -194px;
+}
+.col-26{
+    background-color: rgb(219, 179, 152);
+    margin-top: -189px;
+    margin-left: -194px;
+}

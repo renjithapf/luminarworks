@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Dancing+Script:wght@400;500&family=Island+Moments&family=Libre+Baskerville&family=Lobster&family=Luxurious+Roman&family=Pacifico&family=Satisfy&family=The+Nautigal:wght@400;700&display=swap');
+
+.d-block{
+    height: 500px;
+    width: 100px;
+}
+.carousel-caption h5{
+    font-family: 'The Nautigal', cursive;;
+    margin-bottom: 200px;
+    font-size: 105px;
+
+}
+.navbar{background-color: rgb(94, 146, 41);}
+  
+   
+.logo{
+    font-size:36px ;
+    margin-left: 37px;
+    margin-top: 10px;
+    font-family: 'Lobster', cursive;
+    color: white;
+}
+.ab1{
+   
+    font-family: 'Satisfy', cursive;
+    font-size: 23px;
+  text-align: justify;
+    margin-top: 10px;
+    
+    border-radius: 10px;
+    padding: 10px;
+   
+}
+.about1{
+    border-radius: 10px;
+    height: 200px;
+    width: 1083px;
+    margin-left: 219px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.about{
+    background-color: rgb(94, 146, 41);
+    height: 339px;
+    margin-top: -10px;
+}
+.Menuh{
+    height: 607px;
+    width: 1534px;
+    margin-left: -5px;
+    margin-top: -255px;
+    font-family:  'Lobster', cursive;
+    background-color: rgb(94, 146, 41);;
+    display: flex;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+.menu{
+    margin-left: 731px;
+    margin-top: -29px;
+    font-family:  'Lobster', cursive;
+    height: 234px;
+}
+.card1{
+    width: 200px;
+    margin-top: 88px;
+    margin-left: 72px;
+    background-color: #fbfbfb;
+    height: 461px;
+
+}
+.card2{
+    margin-top: 88px;
+    margin-left: 83px;
+    background-color: #fbfbfb;
+    height: 461px;
+
+}
+.card3{
+    margin-top: 88px;
+    margin-left: 72px;
+    background-color: #fbfbfb;
+    height: 461px;
+
+}
+.card4{
+    margin-top: 88px;
+    margin-left: 81px;
+    background-color: #fbfbfb;
+    height: 461px;
+
+}
+.img-top1{height: 250px;
+width: 289px;}
+.img-top2{height: 250px;
+    width: 289px;}
+.img-top3{height: 250px;
+        width: 289px;}
+.img-top4{height: 250px;
+            width: 289px;}
+
+
+
+
+
+
+
+
+

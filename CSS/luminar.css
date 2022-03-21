@@ -1,0 +1,16 @@
+h1{
+    color: rgba(80, 4, 80, 0.507);
+}
+span{color: rgb(240, 57, 240);}
+#a1{
+    color: darkred;
+}
+button{
+    background-color: darkviolet;
+    color: rgba(241, 241, 239, 0.925);
+    border-radius: 20px;
+}
+button:hover{
+    background-color: floralwhite;
+    color: rgb(248, 50, 248);
+}

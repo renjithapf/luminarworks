@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Dancing+Script:wght@400;500&family=Island+Moments&family=Libre+Baskerville&family=Lobster&family=Luxurious+Roman&family=Pacifico&family=The+Nautigal:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Island+Moments&family=Libre+Baskerville&family=Lobster&family=Luxurious+Roman&family=Pacifico&family=The+Nautigal&display=swap');
+.a1{
+    background-color:#f0c495;
+    color: #070707;
+    height: 2720px;
+    width: 1511px;
+    display: flex;
+    
+    
+}
+.x1{
+   width: 1536px;
+   margin-top: 31px;
+}
+.b1{
+    font-family: 'Island Moments', cursive;
+    font-size: 7em;
+    margin-top: -5px;
+    margin-left:24px ;
+
+
+}
+.a2:hover{
+    background-color: #070706;
+    color:rgb(221, 89, 13);
+    
+}
+
+
+
+.fas{
+    position: relative;
+   top: -168px;
+   left: 197px;
+
+
+}  
+.fab{
+    margin-left: 31px;
+}
+
+ 
+
+
+
+ 
+
+.a2{
+    
+    background-color: rgb(221, 89, 13);
+    color: burlywood;
+    width: 1512px;
+    height: 109px;
+
+    
+}  
+.a3{
+    
+    height: 667px;
+    width: 1000px;
+    color: rgb(1, 14, 14);
+}
+   
+.b2{
+    margin-top: -110px;
+    margin-left: 548px;
+    font-family:'Dancing Script', cursive;
+    font-size: 40px;
+    
+}
+.a4{
+    border: rgb(1, 14, 14) 2px solid;
+    color: rgb(1, 14, 14);
+    height: 235px;
+    width: 589px;
+    margin-top: 36px;
+    margin-left: 455px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-image: url(./images/b3.jfif);
+    background-size: cover;
+}
+.b4{
+    font-size: 1em;
+    
+    color: rgb(10, 5, 2);
+    text-align: justify;
+}
+#c1{
+    font-family: 'Luxurious Roman', cursive;
+    font-size: 21px;
+    
+}
+#c1 li{
+    font-size:10px;
+
+}
+#c2{
+    font-size:21px;
+    font-family: 'Luxurious Roman', cursive;
+    margin-top: 30px;
+}
+.c3{
+    font-family: 'Luxurious Roman', cursive;
+    font-size: 21px; 
+    text-align: center; 
+}
+.d1{
+    font-size: 17px; 
+    text-align: center; 
+   
+   
+
+}
+
+img{
+    width: 188px;
+    height: 172px;
+    margin-top: -133px;
+    margin-left: 1005px;
+}
+
+.o1{
+    margin top: 100px;
+    margin left:100px
+}
+.m1{
+  
+  border: teal 2px solid;
+  background-color:rgb(238, 150, 99);
+height: 296px;
+    width: 283px;
+    margin-left:594px ;
+    margin-top: 100px;
+    
+}
+.m1{
+
+  
+    padding-left: 45px;
+    margin-top: 23px;
+    
+}
+.a8{
+    background-color:rgb(222, 89, 13);
+    color: black;
+    border: black;
+    height: 141px;
+    width: 1510px;
+    margin-top: 3px;
+}
+.n1{
+    text-align: center;
+    font-size: 24px;
+}
+.n2{
+    margin-top: -41px;
+    margin-left: 1279px;
+    font-size: 21px;
+    
+   
+}
+.n3{
+    
+    font-family: 'Luxurious Roman', cursive;
+    margin-top: -16px;
+    margin-left: 1279px;
+    font-size: 14px;
+    
+
+}
+.j1{
+    height: 439px;
+    width: 1151px;
+    background color: #f0c495 ;
+    margin-top:-85px ;
+    margin-left: 200px;
+    justify-content: space-evenly;
+   
+}
+.d6{
+    height: 436px;
+    width: 258px;
+    border:black;
+    background-color:blanchedalmond;
+    margin-top:100px ;
+    margin-left: 28px;
+    justify-content: space-evenly;
+    
+}
+.d2{
+    height: 436px;
+    width: 281px;
+    border:black;
+    background-color:blanchedalmond;
+    
+    margin-top:-454px ;
+    margin-left: 296px;
+  
+}
+.d3{
+    height: 436px;
+    width: 281px;
+    border:black;
+    background-color:blanchedalmond;
+    margin-top:-452px ;
+    margin-left:585px;
+   
+    
+}
+.d4{
+    height: 436px;
+    width: 281px;
+    background-color:blanchedalmond;
+    margin-top:-454px ;
+    margin-left: 874px;
+}
+.y1{
+    text-align: center;
+    font-size:21px;
+    font-family: 'Luxurious Roman', cursive;
+    margin-left: 512px;
+    margin-top: 37px;
+}
+.p1{
+    text-align: center;
+    font-size:25px ;
+    font-family: 'Luxurious Roman', cursive;
+    
+}
+img{
+    height: 172px;
+    width: -188px;
+    margin-top:7px ;
+    margin-left: 40px;
+}
+.d6{
+    text-align: justify;
+}
+.d2{
+
+    text-align: justify;
+}
+.d3{
+    text-align: justify;
+}
+.d4{
+
+    text-align: justify;
+}
+.w1{
+    height:466px ;
+    width: 1503px;
+    margin-top:30px ;
+    margin-left: 0px;
+    background-color: blanchedalmond;
+}
+.w2{
+    text-align: center;
+    font-size:25px ;
+    font-family: 'Luxurious Roman', cursive;
+}
